@@ -22,7 +22,7 @@ Follow these steps to set up the project repository on your local machine.
 
 ### Cloning the Repository
 ```bash
-git clone https://git.fhict.nl/I353593/portfolio-sem-3.git
+git clone https://github.com/ellyshiacheryltan/sleep-quality-predictor.git
 ```
 
 ### Installation
